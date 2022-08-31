@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "PeK3u+czPwMVSYwTWa10re+/pkiL059hsv9bIgRBK5U=",
+  "Source": "seminarskiBooks",
+  "BasePath": "_content/seminarskiBooks",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "seminarskiBooks\\wwwroot",
+      "Source": "seminarskiBooks",
+      "ContentRoot": "C:\\Users\\Selma\\source\\repos\\seminarskiBooks\\seminarskiBooks\\wwwroot\\",
+      "BasePath": "_content/seminarskiBooks",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Selma\\source\\repos\\seminarskiBooks\\seminarskiBooks\\wwwroot\\index.html",
+      "SourceId": "seminarskiBooks",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Selma\\source\\repos\\seminarskiBooks\\seminarskiBooks\\wwwroot\\",
+      "BasePath": "_content/seminarskiBooks",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
